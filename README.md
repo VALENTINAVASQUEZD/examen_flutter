@@ -1,4 +1,4 @@
-
+### la nueva funcionalidad implementada es que cada vez que agrego un medicamento se le asigna un color en aleatorio 
 
 Debido a inconvenientes con el uso del archivo `.env`, las credenciales de Appwrite fueron seteadas directamente en el código fuente.
 
