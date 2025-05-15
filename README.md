@@ -1,16 +1,9 @@
-# application_medicines
+no utilice el .env por que presentaba problemas , como usted me comento deje ceteados los datos de igual forma dejo las credenciles que utilice para appwrite:
 
-A new Flutter project.
+  static const String endpoint = 'https://fra.cloud.appwrite.io/v1';
+  static const String projectId = '67e47f86000450313af6';
+  static const String databaseId = '67e480670032ea389b81';
+  static const String collectionId = '68251f37001fd2f9f45e';
 
-## Getting Started
+mi nueva funcionalidad es de que cada que se agregen medicamentos se le asignara un color en aleatorio
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
